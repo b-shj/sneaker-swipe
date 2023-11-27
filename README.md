@@ -20,7 +20,7 @@ Sneaker-Swipe is a web app powered by the masses, relying on users to voice thei
 
 ## Installation
 #### Requirements
-* Node.js, Java 11 and Maven
+* Node.js, Java and Maven
 
 #### Setup
 * Clone this repository
